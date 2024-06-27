@@ -32,6 +32,11 @@ src="https://samirgeorgy.files.wordpress.com/2020/01/itchio-textless-icon.png" a
 src="https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/88/GitHub_Icon.svg/1200px-GitHub_Icon.svg.png" alt="C#" height="50" /></a>
 </p>
 
+## Поддержка проекта
+
+Проект не заброшен и поддерживается автором. Если при игре вы нашли какой-то баг или нечто, мешающее геймплею - напишите мне:
+joyt_supp0rt@internet.ru
+
 ## Разработчик
 
 - [PiRaMiDeON](https://github.com/PiRaMiDeON)
