@@ -1,5 +1,5 @@
 <p align="center">
-      <video src='' width=180/>
+      <video src='https://github.com/PiRaMiDeON/JoyT/blob/main/GitHubMP4.mp4'>
 </p>
 
 <p align="center">
@@ -12,12 +12,13 @@
 
 ## Проект
 
-The swipe capture system was conceived as a separate module that could take over all the work on recognizing and processing swipes on mobile platforms. Interaction with the component is carried out using events. This approach completely separates the code of your project and the code of the component responsible for processing swipes, and a wide set of events will allow you to use this component in any projects and for any tasks.
+Одиночный сюжетный 2D платформер в пиксельном стиле, рассказывающий историю о неизвестной инфекции в кубической системе. Проект был создан на движке Unity 2021, а позже перенесен на версию 2022 года. Приятная пиксельная графика и хорошее звуковое сопровождение, вызванные порывом вдохновения автора, не оставят игрока равнодушным. Изначально JoyT задумывалась как бесконечный платформер на основе генерации комнат, но в силу нехватки знаний и опыта автора на момент разработки переросла в сюжетный проект с финалом и ограниченным количеством локаций (да и сама идея сюжета мне показалась более приятной). Сражения с боссами, головоломки и паркур - это JoyT!
 
-## Installation
+## Установка
 
-1. Add Burning-Lab registry to Unity Project.
-2. Install `Swipe Detector` package via Unity Package Manager.
+1. Вы можете получит JoyT бесплатно на странице магазина VKPlay - https://vkplay.ru/play/game/joyt/
+2. Также вы можете найти JoyT на Itch.io - https://piramideon.itch.io/joyt
+3. Или вы можете скачать архив с проектом здесь, на GitHub - 
 
 **Burning-Lab Registry:**
 ```json
