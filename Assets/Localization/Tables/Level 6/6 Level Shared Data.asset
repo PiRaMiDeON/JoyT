@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: 6 Level Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: 6 Level
+  m_TableCollectionNameGuidString: 47ec879e8237aaf4799e6d258a31a2e7
+  m_Entries:
+  - m_Id: 27925524480
+    m_Key: First Dialogue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 641535422464
+    m_Key: Cut scene 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693674815488
+    m_Key: Cut scene 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713539039232
+    m_Key: Cut scene 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 726692376576
+    m_Key: Cut scene 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735953399808
+    m_Key: Cut scene 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 744073572352
+    m_Key: Cut scene 6
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2763174021929369600
+  references:
+    version: 2
+    RefIds:
+    - rid: 2763174021929369600
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1699268332899

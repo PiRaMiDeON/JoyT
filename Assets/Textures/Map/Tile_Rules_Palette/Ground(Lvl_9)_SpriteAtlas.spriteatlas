@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ground(Lvl_9)_SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 8ec6be89b02292a45bd90f822a52229a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 8ec6be89b02292a45bd90f822a52229a: -1067052235
+    - 8ec6be89b02292a45bd90f822a52229a: -19386637
+    - 8ec6be89b02292a45bd90f822a52229a: -929428622
+    - 8ec6be89b02292a45bd90f822a52229a: -1817090252
+    - 8ec6be89b02292a45bd90f822a52229a: -47054902
+    - 8ec6be89b02292a45bd90f822a52229a: -1891165014
+    - 8ec6be89b02292a45bd90f822a52229a: -882150390
+    - 8ec6be89b02292a45bd90f822a52229a: -1405526115
+    - 8ec6be89b02292a45bd90f822a52229a: 1453749929
+    - 8ec6be89b02292a45bd90f822a52229a: 36785585
+    - 8ec6be89b02292a45bd90f822a52229a: 2103399151
+    - 8ec6be89b02292a45bd90f822a52229a: -354623313
+    - 8ec6be89b02292a45bd90f822a52229a: -287497841
+    - 8ec6be89b02292a45bd90f822a52229a: 1964391337
+    - 8ec6be89b02292a45bd90f822a52229a: 1013521957
+    - 8ec6be89b02292a45bd90f822a52229a: 669622097
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -1067052235, guid: 8ec6be89b02292a45bd90f822a52229a, type: 3}
+  - {fileID: -19386637, guid: 8ec6be89b02292a45bd90f822a52229a, type: 3}
+  - {fileID: -929428622, guid: 8ec6be89b02292a45bd90f822a52229a, type: 3}
+  - {fileID: -1817090252, guid: 8ec6be89b02292a45bd90f822a52229a, type: 3}
+  - {fileID: -47054902, guid: 8ec6be89b02292a45bd90f822a52229a, type: 3}
+  - {fileID: -1891165014, guid: 8ec6be89b02292a45bd90f822a52229a, type: 3}
+  - {fileID: -882150390, guid: 8ec6be89b02292a45bd90f822a52229a, type: 3}
+  - {fileID: -1405526115, guid: 8ec6be89b02292a45bd90f822a52229a, type: 3}
+  - {fileID: 1453749929, guid: 8ec6be89b02292a45bd90f822a52229a, type: 3}
+  - {fileID: 36785585, guid: 8ec6be89b02292a45bd90f822a52229a, type: 3}
+  - {fileID: 2103399151, guid: 8ec6be89b02292a45bd90f822a52229a, type: 3}
+  - {fileID: -354623313, guid: 8ec6be89b02292a45bd90f822a52229a, type: 3}
+  - {fileID: -287497841, guid: 8ec6be89b02292a45bd90f822a52229a, type: 3}
+  - {fileID: 1964391337, guid: 8ec6be89b02292a45bd90f822a52229a, type: 3}
+  - {fileID: 1013521957, guid: 8ec6be89b02292a45bd90f822a52229a, type: 3}
+  - {fileID: 669622097, guid: 8ec6be89b02292a45bd90f822a52229a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Ground(Lvl_9)_Tileset_10
+  - Ground(Lvl_9)_Tileset_11
+  - Ground(Lvl_9)_Tileset_12
+  - Ground(Lvl_9)_Tileset_13
+  - Ground(Lvl_9)_Tileset_14
+  - Ground(Lvl_9)_Tileset_15
+  - Ground(Lvl_9)_Tileset_1
+  - Ground(Lvl_9)_Tileset_0
+  - Ground(Lvl_9)_Tileset_3
+  - Ground(Lvl_9)_Tileset_2
+  - Ground(Lvl_9)_Tileset_5
+  - Ground(Lvl_9)_Tileset_4
+  - Ground(Lvl_9)_Tileset_7
+  - Ground(Lvl_9)_Tileset_6
+  - Ground(Lvl_9)_Tileset_9
+  - Ground(Lvl_9)_Tileset_8
+  m_RenderDataMap: {}
+  m_Tag: Ground(Lvl_9)_SpriteAtlas
+  m_IsVariant: 0

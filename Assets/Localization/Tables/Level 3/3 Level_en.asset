@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 3 Level_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: d4ac9406de63edc4ca209b24bee1d979, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 23328567296
+    m_Localized: This is the third floor. This is where you will first become familiar
+      with the control panels. You will be able to control some of the system's processes.
+      Perhaps you can use them for your own purposes...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56195133440
+    m_Localized: This is our forklift. Now he seems to be infected. I do not advise
+      contacting him, his strength is higher than that of mail bots. Although if
+      you want to remove it, you will have to strike a few blows...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99664900096
+    m_Localized: Great, the road to the exit is clear, go ahead!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111799021568
+    m_Localized: The button changed the polarity of the wave - now you can get to
+      the cube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122402222080
+    m_Localized: This is the control panel. No one knows what it controls until they
+      click on it, so to find out what it controls, you'll have to try (press F to
+      interact)
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

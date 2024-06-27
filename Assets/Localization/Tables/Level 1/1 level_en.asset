@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 1 level_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 57621192f3a7a2a4e8f40c2c151f11bd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 15598465024
+    m_Localized: You're on the first floor. This sector is new, so the design here
+      is not bad (in fact, the author in the process of creating the game realized
+      that it will take a long time to paint each texture by hand and there will
+      be no further such design). Here you will get the basic knowledge for further
+      advancement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 163581898752
+    m_Localized: Press  E  to continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103871787008
+    m_Localized: These dangerous growths appeared after the outbreak of the epidemic.
+      If you want to save your life , then you should not touch them
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52554477568
+    m_Localized: This is an infected email bot. In order not to die, you do not need
+      to touch them. You should have a built-in antivirus field (key X), try to destroy
+      it. If the enemy comes, and the field is recharged, then you can jump over
+      it (you can also push off from the enemy, as from the ground)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113338331136
+    m_Localized: This button opens the transport module, but power is needed to activate
+      it. This power can give a special energy cube , try to look for it nearby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123941531648
+    m_Localized: oh, this is the cubes that can charge the button. If you lose it
+      , then no one will give you a new, keep this in mind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135635251200
+    m_Localized: This are gravitational waves that have arisen as a result of errors
+      due to viruses. They come in different length , width and force , be careful
+      with them
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 11 Level_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 17c1688188dd63e499af5d5c9512c5b5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8803692544
+    m_Localized: "este es el und\xE9cimo piso - un lugar de incineraci\xF3n de residuos
+      t\xE9cnicos, por ejemplo, datos infectados, personal... Estoy bromeando, no
+      son datos. Tenemos que visitar a un amigo. Su destrucci\xF3n es uno de los
+      pasos para detener la propagaci\xF3n del virus"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 732644093952
+    m_Localized: Ahora tienes que subir las escaleras y activar el panel principal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 796565286912
+    m_Localized: "Bien, quedan dos m\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 806707113984
+    m_Localized: "Antes de verter los residuos, es necesario abrir las puertas de
+      seguridad. Si no se abren todas, no se podr\xE1 acceder al panel de activaci\xF3n
+      del procedimiento de incineraci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817603915776
+    m_Localized: "La puerta principal est\xE1 abierta, quedan tres m\xE1s, \xA1adelante!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 827263397888
+    m_Localized: "Ahora este poder de la llama deber\xEDa ser suficiente. \xA1Es
+      hora de empezar a abrir las puertas!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 836998377472
+    m_Localized: "Genial, la llama est\xE1 empezando a encenderse. \xA1Necesitamos
+      activar un par de paneles m\xE1s!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 846041296896
+    m_Localized: "Para poder quemar residuos infectados, es necesario que la temperatura
+      de la llama sea elevada. Para ello, tendr\xE1 que reforzar la llama con la
+      ayuda de paneles de control"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 855587532800
+    m_Localized: "Bien, ahora podemos ir al lado izquierdo del complejo. All\xED
+      podremos encontrar los paneles restantes y salir al exterior para luego llegar
+      al panel principal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 865096019968
+    m_Localized: "As\xED llegar\xE1s al segundo panel de control. Las puertas en
+      la entrada de la sala deben haber abierto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 877045592064
+    m_Localized: "Genial, ahora por fin ha acabado... ya no es una amenaza. Tenemos
+      que ir a la planta final tenemos asuntos importantes all\xED"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

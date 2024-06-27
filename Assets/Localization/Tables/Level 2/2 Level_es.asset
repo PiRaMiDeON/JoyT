@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 2 Level_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: afbfcafe2c954d9408af6983e4a5a034, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 51354906624
+    m_Localized: "Este es el segundo nivel, as\xED que es bastante sencillo. S\xF3lo
+      hay un par de enemigos y ninguna infestaci\xF3n, \xA1buena suerte!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92706549760
+    m_Localized: "En los pisos puede haber diferentes caminos hacia la salida. Para
+      abrir nuevos caminos, intenta cargar el bot\xF3n con la energ\xEDa del cubo
+      para ver si se activa algo...."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148486598656
+    m_Localized: "Tambi\xE9n puedes usar los cubos y los botones para mover plataformas
+      y luego usarlos para subir a lugares antes inaccesibles. El cubo no se destruir\xE1
+      si entra en contacto con un enemigo.... Supongo que..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170116624384
+    m_Localized: "Algunos botones pueden eliminar picos y crecimientos v\xEDricos.
+      Esto te ayudar\xE1 a llegar a lugares a los que antes no pod\xEDas llegar debido
+      a la infecci\xF3n.  Adem\xE1s, algunos niveles requieren que cargues la salida
+      antes de usarla (no todos los niveles)"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

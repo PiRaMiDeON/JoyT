@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CollectParticles_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 33b5c5f6d34cdd24da20257dd49c76b2, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 33b5c5f6d34cdd24da20257dd49c76b2: 292612414
+    - 33b5c5f6d34cdd24da20257dd49c76b2: -1184104070
+    - 33b5c5f6d34cdd24da20257dd49c76b2: -913375395
+    - 33b5c5f6d34cdd24da20257dd49c76b2: 1194704102
+    - 33b5c5f6d34cdd24da20257dd49c76b2: 471362501
+    - 33b5c5f6d34cdd24da20257dd49c76b2: 239144312
+    - 33b5c5f6d34cdd24da20257dd49c76b2: 1384091754
+    - 33b5c5f6d34cdd24da20257dd49c76b2: -1120294583
+    - 33b5c5f6d34cdd24da20257dd49c76b2: 1980881859
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 292612414, guid: 33b5c5f6d34cdd24da20257dd49c76b2, type: 3}
+  - {fileID: -1184104070, guid: 33b5c5f6d34cdd24da20257dd49c76b2, type: 3}
+  - {fileID: -913375395, guid: 33b5c5f6d34cdd24da20257dd49c76b2, type: 3}
+  - {fileID: 1194704102, guid: 33b5c5f6d34cdd24da20257dd49c76b2, type: 3}
+  - {fileID: 471362501, guid: 33b5c5f6d34cdd24da20257dd49c76b2, type: 3}
+  - {fileID: 239144312, guid: 33b5c5f6d34cdd24da20257dd49c76b2, type: 3}
+  - {fileID: 1384091754, guid: 33b5c5f6d34cdd24da20257dd49c76b2, type: 3}
+  - {fileID: -1120294583, guid: 33b5c5f6d34cdd24da20257dd49c76b2, type: 3}
+  - {fileID: 1980881859, guid: 33b5c5f6d34cdd24da20257dd49c76b2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Collection_Sheet_8
+  - Collection_Sheet_6
+  - Collection_Sheet_7
+  - Collection_Sheet_4
+  - Collection_Sheet_5
+  - Collection_Sheet_2
+  - Collection_Sheet_3
+  - Collection_Sheet_0
+  - Collection_Sheet_1
+  m_RenderDataMap: {}
+  m_Tag: CollectParticles_Atlas
+  m_IsVariant: 0

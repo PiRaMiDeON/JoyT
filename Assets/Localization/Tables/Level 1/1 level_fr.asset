@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 1 level_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 57621192f3a7a2a4e8f40c2c151f11bd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 163581898752
+    m_Localized: Appuyez sur E pour continuer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15598465024
+    m_Localized: "Vous \xEAtes au premier \xE9tage. Ce secteur est nouveau, le design
+      n'est donc pas mauvais (en fait, l'auteur s'est rendu compte en cr\xE9ant le
+      jeu que peindre chaque texture manuellement prendrait beaucoup de temps et
+      qu'il n'y aurait pas d'autre design de ce type). Ici, vous obtiendrez les connaissances
+      de base n\xE9cessaires \xE0 votre progression"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52554477568
+    m_Localized: "Il s'agit d'un bot de courrier \xE9lectronique infect\xE9. Pour
+      ne pas mourir, vous ne devez pas le toucher. Vous devriez avoir un champ antivirus
+      int\xE9gr\xE9 (touche X), essayez de le d\xE9truire. Si l'ennemi arrive, et
+      que le champ est recharg\xE9, alors vous pouvez sauter par-dessus (vous pouvez
+      aussi pousser depuis l'ennemi, comme depuis le sol)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103871787008
+    m_Localized: "Ces excroissances dangereuses sont apparues apr\xE8s le d\xE9but
+      de l'\xE9pid\xE9mie. Si vous voulez sauver votre vie, vous ne devez pas les
+      toucher."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113338331136
+    m_Localized: "Ce bouton ouvre le module de transport, mais il faut de l'\xE9nergie
+      pour l'activer. Ce pouvoir peut donner un cube d'\xE9nergie sp\xE9cial, essayez
+      de le chercher \xE0 proximit\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123941531648
+    m_Localized: "Il s'agit des cubes qui permettent de recharger le bouton. Si vous
+      le perdez, personne ne vous en donnera un nouveau, gardez cela \xE0 l'esprit."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135635251200
+    m_Localized: "Il s'agit d'ondes gravitationnelles qui sont apparues \xE0 la suite
+      d'erreurs dues \xE0 des virus. Elles sont de longueur, de largeur et de force
+      diff\xE9rentes, il faut donc s'en m\xE9fier."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

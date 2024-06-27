@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 10 Level_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e0f495c5f4c908f4982c105ace3600cb, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8975659008
+    m_Localized: We are in a voltage regulator. It's a pretty gray and dingy place,
+      so I don't like it much. Since there's a lot of power here, it means the anti-virus
+      is stronger, so maybe there are some uninfected personnel left here (the author
+      says if you see something that looks like a frog here, ignore it)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33248096256
+    m_Localized: 'This gate can be unlocked in several ways. For example, by using
+      a control panel or activating a pressure plate. In some cases, it is necessary
+      to get rid of employees (even uninfected ones) so that they do not block the
+      gate with their energy fields... '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61337350144
+    m_Localized: The player cannot touch the email bots, but there are no obstacles
+      for the cube)))
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70858420224
+    m_Localized: 'The last gate is open, so hurry up. The waste incineration compartment
+      is waiting for us '
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

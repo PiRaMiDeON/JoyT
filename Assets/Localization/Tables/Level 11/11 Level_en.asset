@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 11 Level_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 17c1688188dd63e499af5d5c9512c5b5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8803692544
+    m_Localized: this is the eleventh floor - a place of incineration of technical
+      waste, for example, infected data, personnel... I'm kidding, it's not data.
+      We need to visit a friend. Its destruction is one of the steps to stop the
+      spread of the virus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 732644093952
+    m_Localized: So, now you need to go upstairs and activate the main panel!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 796565286912
+    m_Localized: Okay, there are two more left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 806707113984
+    m_Localized: Before dumping waste, it is necessary to open the security gateways.
+      If not all of them are opened, then you will not be able to access the activation
+      panel of the incineration procedure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817603915776
+    m_Localized: The main gate is open, there are three more left - go ahead!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 827263397888
+    m_Localized: Now this flame power should be enough. It's time to start opening
+      the gates!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 836998377472
+    m_Localized: Great, the flame is starting to flare up. We need to activate a
+      couple more panels!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 846041296896
+    m_Localized: In order to be able to burn infected waste, it is necessary that
+      there is a high flame temperature. To do this, you will have to strengthen
+      the flame with the help of control panels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 855587532800
+    m_Localized: Okay, now we can go to the left side of the complex. There we will
+      be able to find the remaining panels and go outside to then get to the main
+      panel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 865096019968
+    m_Localized: That should get you to the second control panel. The doors at the
+      entrance to the room should have opened
+    m_Metadata:
+      m_Items: []
+  - m_Id: 877045592064
+    m_Localized: Great, now he's finally finished- he's no longer a threat. We need
+      to go to the final floor we have important business there
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

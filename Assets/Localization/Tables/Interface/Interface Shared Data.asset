@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Interface Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Interface
+  m_TableCollectionNameGuidString: 614b1d0800d3027498a91cca81a55790
+  m_Entries:
+  - m_Id: 13568421888
+    m_Key: Energy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30546964480
+    m_Key: Antivirus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52986490880
+    m_Key: BossName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152580239360
+    m_Key: WhoThisName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 183978799104
+    m_Key: Help
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2763173997511180301
+  references:
+    version: 2
+    RefIds:
+    - rid: 2763173997511180301
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1699177031003

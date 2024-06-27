@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 5 Level_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: d9f4a849fe64cb74f825eb83b892aa2c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 218019770368
+    m_Localized: "Nos encontramos en uno de los focos de infecci\xF3n. En este lugar,
+      el sistema est\xE1 infectado en un 90%, por lo que el personal infectado puede
+      ser impredecible. Aqu\xED hay muchos m\xE1s robots infectados, y tambi\xE9n
+      son mucho m\xE1s r\xE1pidos: \xA1ten cuidado!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 586946555904
+    m_Localized: "intente preguntar a estos tipos d\xF3nde est\xE1 la salida..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 615702704128
+    m_Localized: "Genial, las ondas gravitacionales han cambiado de direcci\xF3n,
+      ahora puedes ir al fondo del suelo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 624024203264
+    m_Localized: "No recomiendo usar estos portales. Creo que ser\xEDa m\xE1s r\xE1pido
+      si simplemente bajas hasta el fondo, desliz\xE1ndote a trav\xE9s de esas olas
+      (Y por qu\xE9 el Autor da esas pistas...)."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 633515913216
+    m_Localized: Hay algo mal con este montacargas, no me gusta...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 643481579520
+    m_Localized: "El poder de tu onda antivirus no es suficiente para hacerle mucho
+      da\xF1o, as\xED que creo que volver\xE1 pronto. Date prisa y deja este lugar"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

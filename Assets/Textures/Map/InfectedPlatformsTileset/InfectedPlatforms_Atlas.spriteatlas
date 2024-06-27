@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: InfectedPlatforms_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 6dcadbcce645ccd43b0671ad17c3b696: -232431751
+    - 6dcadbcce645ccd43b0671ad17c3b696: 1580016240
+    - 6dcadbcce645ccd43b0671ad17c3b696: -1855562540
+    - 6dcadbcce645ccd43b0671ad17c3b696: 239856388
+    - 6dcadbcce645ccd43b0671ad17c3b696: -1890235269
+    - 6dcadbcce645ccd43b0671ad17c3b696: 1048914223
+    - 6dcadbcce645ccd43b0671ad17c3b696: -553975896
+    - 6dcadbcce645ccd43b0671ad17c3b696: 357193051
+    - 6dcadbcce645ccd43b0671ad17c3b696: 344882713
+    - 6dcadbcce645ccd43b0671ad17c3b696: -858245460
+    - 6dcadbcce645ccd43b0671ad17c3b696: 1630658036
+    - 6dcadbcce645ccd43b0671ad17c3b696: 2022062893
+    - 6dcadbcce645ccd43b0671ad17c3b696: 931701225
+    - 6dcadbcce645ccd43b0671ad17c3b696: -1811772827
+    - 6dcadbcce645ccd43b0671ad17c3b696: 282855874
+    - 6dcadbcce645ccd43b0671ad17c3b696: 1465270765
+    - 6dcadbcce645ccd43b0671ad17c3b696: 1140826931
+    - 6dcadbcce645ccd43b0671ad17c3b696: 863376136
+    - 6dcadbcce645ccd43b0671ad17c3b696: -1494644321
+    - 6dcadbcce645ccd43b0671ad17c3b696: 1220021392
+    - 6dcadbcce645ccd43b0671ad17c3b696: -155267194
+    - 6dcadbcce645ccd43b0671ad17c3b696: -1722195829
+    - 6dcadbcce645ccd43b0671ad17c3b696: 963925944
+    - 6dcadbcce645ccd43b0671ad17c3b696: -790224822
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -232431751, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: 1580016240, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: -1855562540, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: 239856388, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: -1890235269, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: 1048914223, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: -553975896, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: 357193051, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: 344882713, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: -858245460, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: 1630658036, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: 2022062893, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: 931701225, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: -1811772827, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: 282855874, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: 1465270765, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: 1140826931, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: 863376136, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: -1494644321, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: 1220021392, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: -155267194, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: -1722195829, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: 963925944, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  - {fileID: -790224822, guid: 6dcadbcce645ccd43b0671ad17c3b696, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - InfectedPlatforms_Tileset_10
+  - InfectedPlatforms_Tileset_11
+  - InfectedPlatforms_Tileset_12
+  - InfectedPlatforms_Tileset_13
+  - InfectedPlatforms_Tileset_14
+  - InfectedPlatforms_Tileset_15
+  - InfectedPlatforms_Tileset_16
+  - InfectedPlatforms_Tileset_17
+  - InfectedPlatforms_Tileset_18
+  - InfectedPlatforms_Tileset_19
+  - InfectedPlatforms_Tileset_21
+  - InfectedPlatforms_Tileset_20
+  - InfectedPlatforms_Tileset_23
+  - InfectedPlatforms_Tileset_22
+  - InfectedPlatforms_Tileset_1
+  - InfectedPlatforms_Tileset_0
+  - InfectedPlatforms_Tileset_3
+  - InfectedPlatforms_Tileset_2
+  - InfectedPlatforms_Tileset_5
+  - InfectedPlatforms_Tileset_4
+  - InfectedPlatforms_Tileset_7
+  - InfectedPlatforms_Tileset_6
+  - InfectedPlatforms_Tileset_9
+  - InfectedPlatforms_Tileset_8
+  m_RenderDataMap: {}
+  m_Tag: InfectedPlatforms_Atlas
+  m_IsVariant: 0

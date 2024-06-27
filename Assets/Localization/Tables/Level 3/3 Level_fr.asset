@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 3 Level_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: d4ac9406de63edc4ca209b24bee1d979, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 23328567296
+    m_Localized: "Il s'agit du troisi\xE8me \xE9tage. C'est ici que vous vous familiariserez
+      avec les panneaux de contr\xF4le. Vous pourrez contr\xF4ler certains processus
+      du syst\xE8me. Vous pourrez peut-\xEAtre les utiliser \xE0 vos propres fins..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56195133440
+    m_Localized: "C'est notre chariot \xE9l\xE9vateur. Il semble maintenant \xEAtre
+      infect\xE9. Je ne conseille pas de le contacter, sa force est sup\xE9rieure
+      \xE0 celle des mail bots. Toutefois, si vous voulez le supprimer, vous devrez
+      lui ass\xE9ner quelques coups..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99664900096
+    m_Localized: "Super, la route vers la sortie est d\xE9gag\xE9e, allez-y !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111799021568
+    m_Localized: "Le bouton a chang\xE9 la polarit\xE9 de la vague - vous pouvez
+      maintenant atteindre le cube."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122402222080
+    m_Localized: "Voici le panneau de contr\xF4le. Personne ne sait ce qu'il contr\xF4le
+      tant qu'il n'a pas cliqu\xE9 dessus. Pour savoir ce qu'il contr\xF4le, vous
+      devez donc essayer (appuyez sur F pour interagir)."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: LvlMenu
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: b5a41e9a94326274ab2b1c0a93db3aeb, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 2a66603c5395e1344bf62d6f52110a6b, type: 2}
+  - {fileID: 11400000, guid: 986cfe9d32a25a042a906394d5178c62, type: 2}
+  - {fileID: 11400000, guid: d7214cc5f76ed8f40b0376e19def3d2f, type: 2}
+  - {fileID: 11400000, guid: ba12fd44827ede04bacb6d1f7b9d471c, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

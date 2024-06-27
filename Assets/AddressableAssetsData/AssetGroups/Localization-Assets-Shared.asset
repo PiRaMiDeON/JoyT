@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: eab9f6a332e0005468f60d0b83fae908
+  m_SerializeEntries:
+  - m_GUID: 57621192f3a7a2a4e8f40c2c151f11bd
+    m_Address: Assets/Localization/Tables/Level 1/1 level Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5a41e9a94326274ab2b1c0a93db3aeb
+    m_Address: Assets/Localization/Tables/LvlMenu/LvlMenu Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afbfcafe2c954d9408af6983e4a5a034
+    m_Address: Assets/Localization/Tables/Level 2/Level 2 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4ac9406de63edc4ca209b24bee1d979
+    m_Address: Assets/Localization/Tables/Level 3/3 Level Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 614b1d0800d3027498a91cca81a55790
+    m_Address: Assets/Localization/Tables/Interface/Interface Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6515deff31e81e84da8d66f50a242915
+    m_Address: Assets/Localization/Tables/Level 4/4 Level Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9f4a849fe64cb74f825eb83b892aa2c
+    m_Address: Assets/Localization/Tables/Level 5/5 Level Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47ec879e8237aaf4799e6d258a31a2e7
+    m_Address: Assets/Localization/Tables/Level 6/6 Level Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73ef41f8d87a7694d870d8849905c0d5
+    m_Address: Assets/Localization/Tables/Level 7/7 Level Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f07f553752c90747b5ba5c3fb5268cc
+    m_Address: Assets/Localization/Tables/Level 8/8 Level Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fce7de56ecd9ea54789fc0e23ed94011
+    m_Address: Assets/Localization/Tables/Level 9/9 Level Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0f495c5f4c908f4982c105ace3600cb
+    m_Address: Assets/Localization/Tables/Level 10/10 Level Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17c1688188dd63e499af5d5c9512c5b5
+    m_Address: Assets/Localization/Tables/Level 11/11 Level Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3339ae9e5864314c8b279fbf8f7775c
+    m_Address: Assets/Localization/Tables/Level 12/12 Level Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf79f1e04cc108641836594f3ca50462
+    m_Address: Assets/Localization/Tables/Level 13/13 Level Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2dbefa5f78f04fa429cf7af60be9ed55
+    m_Address: Assets/Localization/Tables/Epilogue/Epilogue Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 035fd9ee5d062b34ebea063ae28903ce
+    m_Address: Assets/Localization/Tables/PocketMenu/PocketMenu Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 4d05e98d7fcb13047a36f7bef00285b2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 73e4fff9d266da444936d8e32382c7fc, type: 2}
+    - {fileID: 11400000, guid: 208895c0b42d4f44cb89f013f5b3218f, type: 2}

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 6 Level_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 47ec879e8237aaf4799e6d258a31a2e7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 27925524480
+    m_Localized: "Sixi\xE8me \xE9tage. Ici, des champs sp\xE9ciaux sont utilis\xE9s
+      pour transmettre de l'\xE9nergie dans tout le syst\xE8me, \xE0 travers lesquels
+      le personnel peut \xE9galement se d\xE9placer. Aux abords de l'\xE9tage, le
+      champ s'affaiblit et peut se terminer brusquement."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 641535422464
+    m_Localized: "Ces panneaux contr\xF4lent les \xE9l\xE9ments du syst\xE8me et
+      les quasi-champs \xE0 travers lesquels vous vous d\xE9placez. Il faut essayer
+      d'\xE9teindre les lasers et les transmetteurs d'informations infect\xE9s pour
+      atteindre la sortie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693674815488
+    m_Localized: Le panel ne vous fera pas attendre. Moins de paroles, plus de douleur,
+      mon petit marshmallow !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713539039232
+    m_Localized: "Apparemment, nous devrons franchir le bord du syst\xE8me dans un
+      quasi-champ. C'est moins s\xFBr comme \xE7a, mais il n'y a pas besoin de jouer
+      avec le syst\xE8me laser."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 726692376576
+    m_Localized: "Le panneau a activ\xE9 un quasi-champ, \xE0 travers lequel tu peux
+      atteindre le portail, d\xE9p\xEAche-toi !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735953399808
+    m_Localized: "Il me semble que ces portails nous m\xE8neront \xE0 la sortie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 744073572352
+    m_Localized: "En \xE9teignant les lasers et certains \xE9metteurs de virus, vous
+      avez \xE9galement \xE9teint le quasi-champ, qui \xE9tait la source d'\xE9nergie
+      de l'antivirus"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

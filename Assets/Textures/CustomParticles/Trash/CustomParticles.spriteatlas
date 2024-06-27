@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CustomParticles
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: c4708138584099c4e88cc44ad3bce8e4, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - c4708138584099c4e88cc44ad3bce8e4: 2095870206
+    - c4708138584099c4e88cc44ad3bce8e4: -970000756
+    - c4708138584099c4e88cc44ad3bce8e4: 919071109
+    - c4708138584099c4e88cc44ad3bce8e4: -942008414
+    - c4708138584099c4e88cc44ad3bce8e4: -175007237
+    - c4708138584099c4e88cc44ad3bce8e4: -1197872151
+    - c4708138584099c4e88cc44ad3bce8e4: 873260042
+    - c4708138584099c4e88cc44ad3bce8e4: 1101185279
+    - c4708138584099c4e88cc44ad3bce8e4: 340293391
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 2095870206, guid: c4708138584099c4e88cc44ad3bce8e4, type: 3}
+  - {fileID: -970000756, guid: c4708138584099c4e88cc44ad3bce8e4, type: 3}
+  - {fileID: 919071109, guid: c4708138584099c4e88cc44ad3bce8e4, type: 3}
+  - {fileID: -942008414, guid: c4708138584099c4e88cc44ad3bce8e4, type: 3}
+  - {fileID: -175007237, guid: c4708138584099c4e88cc44ad3bce8e4, type: 3}
+  - {fileID: -1197872151, guid: c4708138584099c4e88cc44ad3bce8e4, type: 3}
+  - {fileID: 873260042, guid: c4708138584099c4e88cc44ad3bce8e4, type: 3}
+  - {fileID: 1101185279, guid: c4708138584099c4e88cc44ad3bce8e4, type: 3}
+  - {fileID: 340293391, guid: c4708138584099c4e88cc44ad3bce8e4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Particles_1
+  - Particles_0
+  - Particles_3
+  - Particles_2
+  - Particles_5
+  - Particles_4
+  - Particles_7
+  - Particles_6
+  - Particles_8
+  m_RenderDataMap: {}
+  m_Tag: CustomParticles
+  m_IsVariant: 0

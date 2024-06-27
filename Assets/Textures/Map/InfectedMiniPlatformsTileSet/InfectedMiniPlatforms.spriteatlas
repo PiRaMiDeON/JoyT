@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: InfectedMiniPlatforms
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: dae50ae9ec3511e4abbce319da04d263, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - dae50ae9ec3511e4abbce319da04d263: 622640188
+    - dae50ae9ec3511e4abbce319da04d263: 1519102625
+    - dae50ae9ec3511e4abbce319da04d263: 651994837
+    - dae50ae9ec3511e4abbce319da04d263: -1599923719
+    - dae50ae9ec3511e4abbce319da04d263: -1893918729
+    - dae50ae9ec3511e4abbce319da04d263: 1797169269
+    - dae50ae9ec3511e4abbce319da04d263: 1136363029
+    - dae50ae9ec3511e4abbce319da04d263: -347063507
+    - dae50ae9ec3511e4abbce319da04d263: -263654475
+    - dae50ae9ec3511e4abbce319da04d263: -818720013
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 622640188, guid: dae50ae9ec3511e4abbce319da04d263, type: 3}
+  - {fileID: 1519102625, guid: dae50ae9ec3511e4abbce319da04d263, type: 3}
+  - {fileID: 651994837, guid: dae50ae9ec3511e4abbce319da04d263, type: 3}
+  - {fileID: -1599923719, guid: dae50ae9ec3511e4abbce319da04d263, type: 3}
+  - {fileID: -1893918729, guid: dae50ae9ec3511e4abbce319da04d263, type: 3}
+  - {fileID: 1797169269, guid: dae50ae9ec3511e4abbce319da04d263, type: 3}
+  - {fileID: 1136363029, guid: dae50ae9ec3511e4abbce319da04d263, type: 3}
+  - {fileID: -347063507, guid: dae50ae9ec3511e4abbce319da04d263, type: 3}
+  - {fileID: -263654475, guid: dae50ae9ec3511e4abbce319da04d263, type: 3}
+  - {fileID: -818720013, guid: dae50ae9ec3511e4abbce319da04d263, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - InfectedMiniPlatforms_Tileset_2
+  - InfectedMiniPlatforms_Tileset_3
+  - InfectedMiniPlatforms_Tileset_0
+  - InfectedMiniPlatforms_Tileset_1
+  - InfectedMiniPlatforms_Tileset_6
+  - InfectedMiniPlatforms_Tileset_7
+  - InfectedMiniPlatforms_Tileset_4
+  - InfectedMiniPlatforms_Tileset_5
+  - InfectedMiniPlatforms_Tileset_8
+  - InfectedMiniPlatforms_Tileset_9
+  m_RenderDataMap: {}
+  m_Tag: InfectedMiniPlatforms
+  m_IsVariant: 0

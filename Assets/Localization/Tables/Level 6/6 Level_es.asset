@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 6 Level_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 47ec879e8237aaf4799e6d258a31a2e7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 27925524480
+    m_Localized: "Sexto piso. Aqu\xED se utilizan campos especiales para transmitir
+      energ\xEDa por todo el sistema, a trav\xE9s de los cuales tambi\xE9n puede
+      moverse el personal. En los bordes de la planta, el campo se debilita y puede
+      terminar bruscamente: tenga cuidado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 641535422464
+    m_Localized: "Estos paneles controlan los elementos del sistema y los cuasicampos
+      por los que te mueves. Hay que intentar apagar los l\xE1seres y los transmisores
+      infectados de informaci\xF3n para llegar a la salida"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693674815488
+    m_Localized: "El panel no te har\xE1 esperar. \xA1Menos charla y m\xE1s dolor,
+      chico malvavisco!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713539039232
+    m_Localized: "Al parecer, tendremos que ir por el borde del sistema en un cuasi
+      campo. Es menos seguro de esta manera, pero no hay necesidad de meterse con
+      el sistema l\xE1ser."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 726692376576
+    m_Localized: "El panel ha activado un cuasi-campo, a trav\xE9s del cual puedes
+      llegar al portal, \xA1date prisa!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735953399808
+    m_Localized: "Me parece que estos portales nos llevar\xE1n a la salida"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 744073572352
+    m_Localized: "Con los l\xE1seres y algunos transmisores de virus apagados, tambi\xE9n
+      apagaste el cuasi campo, que era la fuente de energ\xEDa del antivirus"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

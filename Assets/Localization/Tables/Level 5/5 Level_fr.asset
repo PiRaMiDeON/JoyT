@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 5 Level_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: d9f4a849fe64cb74f825eb83b892aa2c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 218019770368
+    m_Localized: "Nous nous trouvons dans l'une des sources d'infection. Ici, le
+      syst\xE8me est infect\xE9 \xE0 90 %, le personnel infect\xE9 peut donc \xEAtre
+      impr\xE9visible. Il y a beaucoup plus de robots infect\xE9s ici, et ils sont
+      aussi beaucoup plus rapides - soyez prudents !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 586946555904
+    m_Localized: "Essayez de leur demander o\xF9 se trouve la sortie..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 615702704128
+    m_Localized: "G\xE9nial, les ondes gravitationnelles ont chang\xE9 de direction,
+      vous pouvez maintenant aller au fond du sol."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 624024203264
+    m_Localized: Je ne recommande pas d'utiliser ces portails. Je pense qu'il serait
+      plus rapide de descendre tout en bas, en se faufilant entre les vagues (et
+      pourquoi l'auteur donne-t-il de telles indications...).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 633515913216
+    m_Localized: "Il y a quelque chose qui ne va pas avec ce chariot \xE9l\xE9vateur,
+      je ne l'aime pas..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 643481579520
+    m_Localized: "La puissance de votre vague anti-virus n'est pas suffisante pour
+      lui faire beaucoup de d\xE9g\xE2ts, donc je pense qu'il sera bient\xF4t de
+      retour. D\xE9p\xEAchez-vous de quitter cet endroit"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

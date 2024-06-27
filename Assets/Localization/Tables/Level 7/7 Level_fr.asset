@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 7 Level_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 73ef41f8d87a7694d870d8849905c0d5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 595364524032
+    m_Localized: "C'est au septi\xE8me \xE9tage que se trouve le deuxi\xE8me nid
+      de virus. Les nids de virus ont beaucoup plus d'employ\xE9s infect\xE9s ! Il
+      y a aussi pas mal de plateformes d'impulsion ici (et elles fonctionnent souvent
+      mal), alors soyez prudents."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 689530843136
+    m_Localized: "La plaque infect\xE9e a \xE9t\xE9 d\xE9truite, vous pouvez maintenant
+      aller plus loin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 716844150784
+    m_Localized: On dirait qu'on a fini de nettoyer cet endroit, il est temps de
+      partir...
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

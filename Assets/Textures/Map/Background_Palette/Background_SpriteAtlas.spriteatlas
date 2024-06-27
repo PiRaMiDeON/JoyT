@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Background_SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+    - {fileID: 2800000, guid: 9eeb144c016572a4d8f87b3ad22151bd, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 57c0101c986f13f40b144859ff72fc3a: 1876403181
+    - 57c0101c986f13f40b144859ff72fc3a: 1286092688
+    - 57c0101c986f13f40b144859ff72fc3a: 2117826215
+    - 57c0101c986f13f40b144859ff72fc3a: 251202628
+    - 57c0101c986f13f40b144859ff72fc3a: -1081004265
+    - 57c0101c986f13f40b144859ff72fc3a: -1143747953
+    - 57c0101c986f13f40b144859ff72fc3a: -1188178752
+    - 57c0101c986f13f40b144859ff72fc3a: 1281363602
+    - 57c0101c986f13f40b144859ff72fc3a: 362569206
+    - 57c0101c986f13f40b144859ff72fc3a: 1288691133
+    - 57c0101c986f13f40b144859ff72fc3a: -1810046398
+    - 57c0101c986f13f40b144859ff72fc3a: 279122304
+    - 57c0101c986f13f40b144859ff72fc3a: 144011634
+    - 57c0101c986f13f40b144859ff72fc3a: 673756913
+    - 57c0101c986f13f40b144859ff72fc3a: -1377912302
+    - 57c0101c986f13f40b144859ff72fc3a: -1077308572
+    - 57c0101c986f13f40b144859ff72fc3a: -91419039
+    - 57c0101c986f13f40b144859ff72fc3a: 1381080050
+    - 57c0101c986f13f40b144859ff72fc3a: -2092935530
+    - 57c0101c986f13f40b144859ff72fc3a: 1259862814
+    - 57c0101c986f13f40b144859ff72fc3a: 98529673
+    - 57c0101c986f13f40b144859ff72fc3a: 1417241841
+    - 57c0101c986f13f40b144859ff72fc3a: 92216397
+    - 57c0101c986f13f40b144859ff72fc3a: 792271661
+    - 57c0101c986f13f40b144859ff72fc3a: 187083052
+    - 57c0101c986f13f40b144859ff72fc3a: 1771402358
+    - 57c0101c986f13f40b144859ff72fc3a: -1052856756
+    - 57c0101c986f13f40b144859ff72fc3a: -643075848
+    - 57c0101c986f13f40b144859ff72fc3a: -687069956
+    - 57c0101c986f13f40b144859ff72fc3a: 1485794838
+    - 57c0101c986f13f40b144859ff72fc3a: 2000289723
+    - 9eeb144c016572a4d8f87b3ad22151bd: -1046692210
+    - 9eeb144c016572a4d8f87b3ad22151bd: 375360556
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1876403181, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: 1286092688, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: 2117826215, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: 251202628, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: -1081004265, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: -1143747953, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: -1188178752, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: 1281363602, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: 362569206, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: 1288691133, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: -1810046398, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: 279122304, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: 144011634, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: 673756913, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: -1377912302, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: -1077308572, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: -91419039, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: 1381080050, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: -2092935530, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: 1259862814, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: 98529673, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: 1417241841, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: 92216397, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: 792271661, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: 187083052, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: 1771402358, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: -1052856756, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: -643075848, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: -687069956, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: 1485794838, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: 2000289723, guid: 57c0101c986f13f40b144859ff72fc3a, type: 3}
+  - {fileID: -1046692210, guid: 9eeb144c016572a4d8f87b3ad22151bd, type: 3}
+  - {fileID: 375360556, guid: 9eeb144c016572a4d8f87b3ad22151bd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Background_Tileset_7
+  - Background_Tileset_6
+  - Background_Tileset_5
+  - Background_Tileset_4
+  - Background_Tileset_3
+  - Background_Tileset_2
+  - Background_Tileset_1
+  - Background_Tileset_0
+  - Background_Tileset_9
+  - Background_Tileset_8
+  - Background_Tileset_29
+  - Background_Tileset_28
+  - Background_Tileset_27
+  - Background_Tileset_30
+  - Background_Tileset_26
+  - Background_Tileset_25
+  - Background_Tileset_24
+  - Background_Tileset_23
+  - Background_Tileset_22
+  - Background_Tileset_21
+  - Background_Tileset_20
+  - Background_Tileset_12
+  - Background_Tileset_13
+  - Background_Tileset_10
+  - Background_Tileset_11
+  - Background_Tileset_16
+  - Background_Tileset_17
+  - Background_Tileset_14
+  - Background_Tileset_15
+  - Background_Tileset_18
+  - Background_Tileset_19
+  - Dop_Background_Tileset_1
+  - Dop_Background_Tileset_0
+  m_RenderDataMap: {}
+  m_Tag: Background_SpriteAtlas
+  m_IsVariant: 0

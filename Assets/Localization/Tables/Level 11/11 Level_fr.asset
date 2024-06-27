@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 11 Level_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 17c1688188dd63e499af5d5c9512c5b5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8803692544
+    m_Localized: "c'est le onzi\xE8me \xE9tage - un lieu d'incin\xE9ration des d\xE9chets
+      techniques, par exemple, des donn\xE9es infect\xE9es, du personnel... Je plaisante,
+      ce ne sont pas des donn\xE9es. Nous devons rendre visite \xE0 un ami. Sa destruction
+      est l'une des \xE9tapes permettant d'arr\xEAter la propagation du virus"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 732644093952
+    m_Localized: "Tu dois maintenant monter \xE0 l'\xE9tage et activer le panneau
+      principal !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 796565286912
+    m_Localized: D'accord, il en reste deux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 806707113984
+    m_Localized: "Avant de d\xE9verser les d\xE9chets, il est n\xE9cessaire d'ouvrir
+      les portiques de s\xE9curit\xE9. Si elles ne sont pas toutes ouvertes, vous
+      ne pourrez pas acc\xE9der au panneau d'activation de la proc\xE9dure d'incin\xE9ration."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 817603915776
+    m_Localized: La porte principale est ouverte, il en reste trois - allez-y !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 827263397888
+    m_Localized: Cette puissance de flamme devrait suffire. Il est temps d'ouvrir
+      les portes !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 836998377472
+    m_Localized: "Super, la flamme commence \xE0 prendre de l'ampleur. Nous devons
+      activer quelques panneaux suppl\xE9mentaires !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 846041296896
+    m_Localized: "Para poder quemar residuos infectados, es necesario que la temperatura
+      de la llama sea elevada. Para ello, tendr\xE1 que reforzar la llama con la
+      ayuda de paneles de control"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 855587532800
+    m_Localized: "Ok, maintenant nous pouvons aller sur le c\xF4t\xE9 gauche du complexe.
+      L\xE0, nous pourrons trouver les panneaux restants et aller \xE0 l'ext\xE9rieur
+      pour atteindre le panneau principal."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 865096019968
+    m_Localized: "Cela devrait vous permettre d'atteindre le deuxi\xE8me panneau
+      de contr\xF4le. Les portes \xE0 l'entr\xE9e de la pi\xE8ce devraient s'\xEAtre
+      ouvertes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 877045592064
+    m_Localized: "Super, maintenant qu'il a fini, il n'est plus une menace. Nous
+      devons nous rendre au dernier \xE9tage, nous y avons des affaires importantes
+      \xE0 r\xE9gler."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

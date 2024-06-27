@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 6 Level_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 47ec879e8237aaf4799e6d258a31a2e7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 27925524480
+    m_Localized: Sixth floor. Here, special fields are used to transmit energy throughout
+      the system, through which personnel can also move. At the edges of the floor,
+      the field weakness and may end abruptly - be careful
+    m_Metadata:
+      m_Items: []
+  - m_Id: 641535422464
+    m_Localized: These panels control the elements of the system and the quasi-fields
+      through which you move. We must try to turn off the lasers and infected transmitters
+      of information to get to the exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 693674815488
+    m_Localized: The panel will not keep you waiting. Less talk, more pain, marshmallow
+      boy!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 713539039232
+    m_Localized: Apparently, we will have to go over the edge of the system in a
+      quasi field. It's less safe this way, but there's no need to mess with the
+      laser system.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 726692376576
+    m_Localized: The panel has activated a quasi-field, through which you can get
+      to the portal, hurry up!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735953399808
+    m_Localized: It seems to me that these portals will lead us to the exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 744073572352
+    m_Localized: With the lasers and some virus transmitters turned off, you also
+      turned off the quasi field, which was the source of energy for the antivirus
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

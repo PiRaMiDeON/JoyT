@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 5 Level_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: d9f4a849fe64cb74f825eb83b892aa2c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 218019770368
+    m_Localized: We are in one of the sources of infection. In this place, the system
+      is infected by 90%, so infected personnel can be unpredictable. There are a
+      lot more infected robots here, and they are also much faster - be careful!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 586946555904
+    m_Localized: try asking these guys where the exit is...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 615702704128
+    m_Localized: Great, the gravitational waves have switched their direction, now
+      you can go to the bottom of the floor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 624024203264
+    m_Localized: I don't recommend using these portals. I think it would be faster
+      if you just go down to the very bottom, slipping through those waves (And why
+      does the Author give such hints...).
+    m_Metadata:
+      m_Items: []
+  - m_Id: 633515913216
+    m_Localized: There's something wrong with this forklift, I don't like it...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 643481579520
+    m_Localized: The power of your anti-virus wave isn't enough to do much damage
+      to him, so I think he'll be back soon. Hurry up and leave this place
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

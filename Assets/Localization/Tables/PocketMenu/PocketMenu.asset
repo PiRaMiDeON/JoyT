@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: PocketMenu
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 035fd9ee5d062b34ebea063ae28903ce, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: ae780e3eaa70b2c4490f255bb65cf40d, type: 2}
+  - {fileID: 11400000, guid: 86ea7032d0a5dd342b924a8bc9ea5deb, type: 2}
+  - {fileID: 11400000, guid: d0a127218e4ea4d4b9828f5ad65e45af, type: 2}
+  - {fileID: 11400000, guid: 71da262c97ee2c24898e30964fe6fb1d, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

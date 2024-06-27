@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LvlMenu Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: LvlMenu
+  m_TableCollectionNameGuidString: b5a41e9a94326274ab2b1c0a93db3aeb
+  m_Entries:
+  - m_Id: 13245460480
+    m_Key: SoundText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106212208640
+    m_Key: VolumeText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137501716480
+    m_Key: LanguageText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 168506011648
+    m_Key: PlayButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245047865344
+    m_Key: SettingsButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 268749877248
+    m_Key: ExitButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382564585811968
+    m_Key: LocationInfoTerminal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382646739644416
+    m_Key: SelectedLocationTerminal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382681606893568
+    m_Key: DifficultTerminal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 395898752184320
+    m_Key: CloseButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12788164389089280
+    m_Key: SwitchMenuButton
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2763173952945389605
+  references:
+    version: 2
+    RefIds:
+    - rid: 2763173952945389605
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1699009850939

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 2 Level_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: afbfcafe2c954d9408af6983e4a5a034, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 51354906624
+    m_Localized: "C'est le deuxi\xE8me niveau, il est donc assez simple. Il n'y a
+      que quelques ennemis et pas d'infestation, bonne chance !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92706549760
+    m_Localized: "Dans les \xE9tages, il peut y avoir diff\xE9rents chemins vers
+      la sortie. Pour ouvrir de nouveaux chemins, essayez de charger le bouton avec
+      l'\xE9nergie du cube pour voir s'il s'active quelque chose...."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148486598656
+    m_Localized: "Vous pouvez \xE9galement utiliser les cubes et les boutons pour
+      d\xE9placer des plates-formes et les utiliser ensuite pour grimper \xE0 des
+      endroits inaccessibles auparavant. Le cube ne sera pas d\xE9truit s'il entre
+      en contact avec un ennemi.... J'imagine..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170116624384
+    m_Localized: "Certains boutons peuvent \xE9liminer les pointes et les excroissances
+      virales. Cela vous aidera \xE0 atteindre des endroits que vous ne pouviez pas
+      atteindre auparavant \xE0 cause de l'infection.  De plus, certains niveaux
+      exigent que vous chargiez la sortie avant de l'utiliser (pas tous les niveaux)."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

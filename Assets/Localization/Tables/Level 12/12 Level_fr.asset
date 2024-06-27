@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 12 Level_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: b3339ae9e5864314c8b279fbf8f7775c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 45621293056
+    m_Localized: "C'est le dernier \xE9tage, la tour de contr\xF4le. Mes capteurs
+      indiquent qu'il n'y a pas de risque d'infection ici. Votre travail est termin\xE9
+      - restez o\xF9 vous \xEAtes et n'allez nulle part, je vous recontacterai bient\xF4t."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663769427968
+    m_Localized: "WH4T HAVE Y0U D... \u2116;%*\":*\u2116( :);\u2116% :\"%; ;\")#%*&@%^0821357^
+      (\xC9chec de la connexion +-+)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 999087255552
+    m_Localized: "Regarde ce que tu as fait, maintenant je vais te tuer \xE0 coup
+      s\xFBr..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1006506979328
+    m_Localized: "Arr\xEAtez, s'il vous pla\xEEt. Je ne veux pas vous br\xFBler par
+      d\xE9pit. Vous pouvez \xEAtre infect\xE9 apr\xE8s avoir \xE9t\xE9 en contact
+      avec l'infection - je n'ai pas besoin de plus de probl\xE8mes, alors ARR\xCATEZ
+      DE GRIMPER D\xC8S MAINTENANT."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1015633784832
+    m_Localized: "Bien, bien - je voulais te br\xFBler dans le flux de donn\xE9es,
+      tu m'as d\xE9masqu\xE9 - bien jou\xE9. Vous avez beau fuir, le flux vous rattrapera
+      toujours..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1023787511808
+    m_Localized: "ESP\xC8CE D'IDIOT, NE BOUGEZ PLUS ! JE NE VEUX PAS QUE TU MONTES
+      \xC0 L'\xC9TAGE, ARR\xCATE-TOI TOUT DE SUITE !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1032473915392
+    m_Localized: "Je t'ai dit de n'aller nulle part. Vous voulez voir l'\xE9tage
+      ? Je vais vous faire un bref historique : cette tour a \xE9t\xE9 construite
+      lors de la cr\xE9ation de l'entreprise et, chaque ann\xE9e, elle est devenue
+      de plus en plus haute jusqu'\xE0 ce qu'elle devienne le sommet d'un cube. C'est
+      l\xE0 que se trouvent aujourd'hui les panneaux de contr\xF4le de s\xE9curit\xE9.
+      Arr\xEAtez-vous, attendez et ne bougez pas !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1039423877120
+    m_Localized: "Je t'ai mis en col\xE8re, j'ai compris, je suis d\xE9sol\xE9. S'il
+      vous pla\xEEt, ne touchez pas le terminal et ne sautez pas dans le courant
+      chaud, soyez un bon gar\xE7on."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047946702848
+    m_Localized: "NON, QU'AS-TU FAIT, IDIOT ? JE CONSTRUIS CETTE TOUR DEPUIS DES
+      D\xC9CENNIES - NE T'AVISE PAS D'APPUYER SUR QUOI QUE CE SOIT D'AUTRE, JE TE
+      TUERAI SI TU TOUCHES \xC0 QUOI QUE CE SOIT D'AUTRE !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1066200313856
+    m_Localized: "(\xC9chec de la connexion +-+)..."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

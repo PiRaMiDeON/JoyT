@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 1 level_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 57621192f3a7a2a4e8f40c2c151f11bd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 163581898752
+    m_Localized: Pulse E para continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15598465024
+    m_Localized: "Te encuentras en el primer piso. Este sector es nuevo, as\xED que
+      el dise\xF1o aqu\xED no est\xE1 mal (de hecho, el autor en el proceso de creaci\xF3n
+      del juego se dio cuenta de que pintar cada textura manualmente llevar\xEDa
+      mucho tiempo y no habr\xE1 m\xE1s dise\xF1os de este tipo). Aqu\xED obtendr\xE1s
+      conocimientos b\xE1sicos para seguir avanzando"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52554477568
+    m_Localized: "Se trata de un bot de correo electr\xF3nico infectado. Con el fin
+      de no morir, no es necesario tocarlos. Usted debe tener un campo antivirus
+      incorporado (tecla X), tratar de destruirlo. Si el enemigo viene, y el campo
+      se recarga, entonces usted puede saltar por encima de ella (tambi\xE9n puede
+      empujar fuera del enemigo, como desde el suelo)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103871787008
+    m_Localized: Estos peligrosos crecimientos aparecieron tras el brote de la epidemia.
+      Si quiere salvar su vida, no debe tocarlos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113338331136
+    m_Localized: "Este bot\xF3n abre el m\xF3dulo de transporte, pero se necesita
+      energ\xEDa para activarlo. Este poder puede dar un cubo de energ\xEDa especial
+      , trata de buscarlo cerca."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123941531648
+    m_Localized: "estos son los cubos que pueden cargar el bot\xF3n. Si lo pierdes,
+      nadie te dar\xE1 uno nuevo, tenlo en cuenta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135635251200
+    m_Localized: Se trata de ondas gravitacionales que han surgido como consecuencia
+      de errores debidos a virus. Vienen en diferente longitud , anchura y fuerza
+      , ten cuidado con ellos
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

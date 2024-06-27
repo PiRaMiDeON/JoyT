@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: 2 Level_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: afbfcafe2c954d9408af6983e4a5a034, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 51354906624
+    m_Localized: This is the second level, so it's pretty simple. There are only
+      a couple enemies and no infestation, good luck!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92706549760
+    m_Localized: On the floors you may encounter different paths to the exit. To
+      open new paths, try to charge the button with energy from the cube to see if
+      it activates something....
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148486598656
+    m_Localized: You can also use the cubes and buttons to move platforms and then
+      use them to climb to previously inaccessible places. The cube will not be destroyed
+      if it comes in contact with an enemy.... I guess...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 170116624384
+    m_Localized: Some buttons can remove viral spikes and growths. This will help
+      you get to places you couldn't get to before due to infection.  Also, some
+      levels require you to charge the output before using it (not all levels)
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
