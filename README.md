@@ -16,9 +16,23 @@
 
 ## Установка
 
-1. Вы можете получит JoyT бесплатно на странице магазина VKPlay - https://vkplay.ru/play/game/joyt/
-2. Также вы можете найти JoyT на Itch.io - https://piramideon.itch.io/joyt
-3. Или вы можете скачать архив с проектом здесь, на GitHub - 
+<p align="center"> Вы можете получит JoyT бесплатно на странице магазина VKPlay
+      <p align="center">
+<a href="https://vkplay.ru/play/game/joyt/" target="_blank"><img style="margin: 10px" 
+src="https://corp.vkcdn.ru/media/images/VKP_ninja_1_pkB5bD2.png" alt="C#" height="50" /></a>
+</p>
+
+<p align="center"> Также вы можете найти JoyT на Itch.io
+      <p align="center">
+<a href="https://piramideon.itch.io/joyt" target="_blank"><img style="margin: 10px" 
+src="https://samirgeorgy.files.wordpress.com/2020/01/itchio-textless-icon.png" alt="C#" height="50" /></a>
+</p>
+
+<p align="center"> Или вы можете скачать архив с проектом здесь, на GitHub
+      <p align="center">
+<a href="https://github.com/PiRaMiDeON/JoyT" target="_blank"><img style="margin: 10px" 
+src="https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/88/GitHub_Icon.svg/1200px-GitHub_Icon.svg.png" alt="C#" height="50" /></a>
+</p>
 
 **Burning-Lab Registry:**
 ```json
